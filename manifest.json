@@ -1,0 +1,18 @@
+{
+  "id": "exploration_base",
+  "name": "Exploration Memory",
+  "version": "0.1.0",
+  "author": "ct",
+  "description": "Projection-independent explored cells and transient visibility with ordinary game saves.",
+  "categories": [
+    "engine",
+    "library"
+  ],
+  "depends": [],
+  "sources": [
+    "src/**/*.cs"
+  ],
+  "test_sources": [
+    "tests/*.cs"
+  ]
+}
